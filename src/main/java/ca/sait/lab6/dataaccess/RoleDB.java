@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class UserDB {
+public class RoleDB {
 
     public List<User> getAll() throws Exception {
         List<User> users = new ArrayList<>();
